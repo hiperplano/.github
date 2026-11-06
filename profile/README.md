@@ -19,4 +19,4 @@ ponta a ponta. Pessoas decidem o que construir e o que vai ao ar.
 - [`aluy-cli-site`](https://github.com/hiperplano/aluy-cli-site): instalação e documentação do CLI.
 - [`aluy-mcp-rpa`](https://github.com/hiperplano/aluy-mcp-rpa): MCP de automação visual de desktop.
 
-[hiperplano.com](https://hiperplano.com) · [English](https://hiperplano.com/en/) · São Paulo, Brasil
+[hiperplano.com](https://hiperplano.com) · [English](https://hiperplano.com/en/)
