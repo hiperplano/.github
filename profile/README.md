@@ -9,7 +9,7 @@ ponta a ponta. Pessoas decidem o que construir e o que vai ao ar.
 |---|---|---|
 | **[Aluy](https://aluy.dev)** | Agente de terminal: lê e edita arquivos, roda comandos e leva a tarefa até o fim | no ar, beta público |
 | **[Concordância](https://www.concordancia.com.br)** | Estudo bíblico com concordância, comentários e análise textual | no ar |
-| **Juntei** | Finanças pessoais: quanto você juntou, cofrinhos e a casa compartilhada | em construção |
+| **Ajuntei** | Finanças pessoais: quanto você juntou, cofrinhos e a casa compartilhada | em construção |
 | **Fluider** | Plataforma de trading quantitativo | em construção |
 | **Holdly** | Para quem faz investimento em valor | em construção |
 
